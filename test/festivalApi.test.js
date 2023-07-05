@@ -1,4 +1,4 @@
-const FestivalLibrary = require('./festivalApi');
+const FestivalLibrary = require('../festivalApi')
 
 describe('FestivalLibrary', () => {
   describe('getAllFestivals', () => {
