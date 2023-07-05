@@ -4,7 +4,7 @@
     "axios": "^1.4.0",
     "node-modules": "^1.0.1"
   },
-  "name": "rendu2",
+  "name": "youssef-rendu2",
   "version": "1.0.0",
   "description": "concert ",
   "main": "festivalApi.js",
